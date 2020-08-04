@@ -1,0 +1,27 @@
+Request method:	GET
+Request URI:	https://www.change2testautomation.com/api/read.php?id=33
+Proxy:			<none>
+Request params:	<none>
+Query params:	id=33
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 04 Aug 2020 16:30:42 GMT
+Server: nginx/1.17.6
+Content-Type: application/json; charset=UTF-8
+Content-Length: 27
+X-Powered-By: PHP/5.6.40
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: access
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Credentials: true
+X-Server-Cache: true
+X-Proxy-Cache: HIT
+
+{
+    "message": "No post found"
+}

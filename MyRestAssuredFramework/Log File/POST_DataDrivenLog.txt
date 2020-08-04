@@ -1,0 +1,54 @@
+Request method:	POST
+Request URI:	http://localhost:8080/api/insert.php
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "author": "Ian",
+    "title": "Rest Assured",
+    "body": "Using PostMan"
+}
+HTTP/1.1 403 Forbidden
+X-Content-Type-Options: nosniff
+Cache-Control: must-revalidate,no-cache,no-store
+Content-Type: text/html;charset=iso-8859-1
+Content-Length: 556
+Server: Jetty(9.4.27.v20200227)
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <title>Error 403 No valid crumb was included in the request</title>
+  </head>
+  <body>
+    <h2>HTTP ERROR 403 No valid crumb was included in the request</h2>
+    <table>
+      <tr>
+        <th colspan="1" rowspan="1">URI:</th>
+        <td colspan="1" rowspan="1">/api/insert.php</td>
+      </tr>
+      <tr>
+        <th colspan="1" rowspan="1">STATUS:</th>
+        <td colspan="1" rowspan="1">403</td>
+      </tr>
+      <tr>
+        <th colspan="1" rowspan="1">MESSAGE:</th>
+        <td colspan="1" rowspan="1">No valid crumb was included in the request</td>
+      </tr>
+      <tr>
+        <th colspan="1" rowspan="1">SERVLET:</th>
+        <td colspan="1" rowspan="1">Stapler</td>
+      </tr>
+    </table>
+    <hr/>
+    <a shape="rect" href="http://eclipse.org/jetty">Powered by Jetty:// 9.4.27.v20200227</a>
+    <hr/>
+  </body>
+</html>

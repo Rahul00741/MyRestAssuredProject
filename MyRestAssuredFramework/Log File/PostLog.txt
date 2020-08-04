@@ -1,0 +1,28 @@
+Request method:	POST
+Request URI:	https://www.change2testautomation.com/api/insert.php
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{"title":"Virat","body":"Automation","author":"Web Services"}
+HTTP/1.1 200 OK
+Date: Tue, 04 Aug 2020 16:31:28 GMT
+Server: Apache
+X-Powered-By: PHP/5.6.40
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Upgrade: h2,h2c
+Connection: Upgrade
+Content-Length: 40
+Content-Type: application/json; charset=UTF-8
+
+{
+    "message": "Data Inserted Successfully"
+}

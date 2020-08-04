@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31512" started-at="2020-08-04T22:01:18 IST" finished-at="2020-08-04T22:01:49 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.TestRunner.TestRunner@7a1ebcd8]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="31512" started-at="2020-08-04T22:01:18 IST" finished-at="2020-08-04T22:01:49 IST">
+      <class name="com.TestRunner.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.TestRunner.TestRunner@7a1ebcd8]" name="setUpClass" is-config="true" duration-ms="882" started-at="2020-08-04T22:01:18 IST" finished-at="2020-08-04T22:01:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.TestRunner.TestRunner@7a1ebcd8]" name="runScenario" duration-ms="5878" started-at="2020-08-04T22:01:19 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-08-04T22:01:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate the POST Method"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[To Validate the Change2TestAutomation API]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.TestRunner.TestRunner@7a1ebcd8]" name="runScenario" duration-ms="1579" started-at="2020-08-04T22:01:25 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-08-04T22:01:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate the POST Method"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[To Validate the Change2TestAutomation API]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.TestRunner.TestRunner@7a1ebcd8]" name="runScenario" duration-ms="1174" started-at="2020-08-04T22:01:26 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-08-04T22:01:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate the POST Method"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[To Validate the Change2TestAutomation API]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.TestRunner.TestRunner@7a1ebcd8]" name="runScenario" duration-ms="4899" started-at="2020-08-04T22:01:27 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-08-04T22:01:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate the POST Method for JSON"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[To Validate the Change2TestAutomation API]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.TestRunner.TestRunner@7a1ebcd8]" name="runScenario" duration-ms="1403" started-at="2020-08-04T22:01:32 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-08-04T22:01:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate the POST Method for JSON"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[To Validate the Change2TestAutomation API]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.TestRunner.TestRunner@7a1ebcd8]" name="runScenario" duration-ms="10535" started-at="2020-08-04T22:01:34 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-08-04T22:01:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate the POST Method for JSON"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[To Validate the Change2TestAutomation API]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.TestRunner.TestRunner@7a1ebcd8]" name="runScenario" duration-ms="3198" started-at="2020-08-04T22:01:44 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-08-04T22:01:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate POST Method Using Request Specification Approach"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[To Validate the Change2TestAutomation API]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.TestRunner.TestRunner@7a1ebcd8]" name="runScenario" duration-ms="1130" started-at="2020-08-04T22:01:47 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-08-04T22:01:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate POST Method Using HashMap Approach"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[To Validate the Change2TestAutomation API]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="extendReport()[pri:0, instance:com.TestRunner.TestRunner@7a1ebcd8]" name="extendReport" is-config="true" duration-ms="0" started-at="2020-08-04T22:01:49 IST" finished-at="2020-08-04T22:01:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendReport -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.TestRunner.TestRunner@7a1ebcd8]" name="tearDownClass" is-config="true" duration-ms="746" started-at="2020-08-04T22:01:49 IST" finished-at="2020-08-04T22:01:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.TestRunner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

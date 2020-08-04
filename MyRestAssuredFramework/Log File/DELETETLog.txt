@@ -1,0 +1,28 @@
+Request method:	POST
+Request URI:	https://www.change2testautomation.com/api/delete.php
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{"id":32}
+HTTP/1.1 200 OK
+Date: Tue, 04 Aug 2020 16:30:49 GMT
+Server: Apache
+X-Powered-By: PHP/5.6.40
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: DELETE
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Upgrade: h2,h2c
+Connection: Upgrade
+Content-Length: 23
+Content-Type: application/json; charset=UTF-8
+
+{
+    "message": "Invlid ID"
+}
